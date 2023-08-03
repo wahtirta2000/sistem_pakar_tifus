@@ -1,0 +1,224 @@
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\bin\Debug\Tugas TA.pdb
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\bin\Debug\Tugas TA.xml
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.exe
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.xml
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+c:\users\depot tirta qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+C:\Users\Depot Tirta Qua\documents\visual studio 2010\Projects\Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe.config
+C:\Users\Depot Tirta Qua\Documents\Visual Studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form5.resources
+C:\Users\Depot Tirta Qua\Documents\Visual Studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+C:\Users\Depot Tirta Qua\Documents\Visual Studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+C:\Users\Depot Tirta Qua\Documents\Visual Studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+C:\Users\Depot Tirta Qua\Documents\Visual Studio 2010\Projects\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe.config
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.exe
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.xml
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+D:\Project Deni Erpian\Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe
+D:\Project Deni Erpian\Tugas TA\Tugas TA\bin\Debug\Tugas TA.pdb
+D:\Project Deni Erpian\Tugas TA\Tugas TA\bin\Debug\Tugas TA.xml
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form5.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form6.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form12.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+D:\Project Deni Erpian\Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe.config
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.exe
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.xml
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.pdb
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.xml
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form12.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+C:\Users\Denierpian\Desktop\Tugas Akhir\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe.config
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.exe
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.xml
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.pdb
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\bin\Debug\Tugas TA.xml
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form12.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denierpian\Desktop\New folder1\Project Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Project Program Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe.config
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.exe
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.xml
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+I:\Project Program Tugas TA\Tugas TA\bin\Debug\Tugas TA.exe
+I:\Project Program Tugas TA\Tugas TA\bin\Debug\Tugas TA.pdb
+I:\Project Program Tugas TA\Tugas TA\bin\Debug\Tugas TA.xml
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form12.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Project Program Tugas TA\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tugas Akhir\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.exe.config
+D:\Tugas Akhir\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.exe
+D:\Tugas Akhir\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.xml
+D:\Tugas Akhir\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.exe.config
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.exe
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.xml
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.exe
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.pdb
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.xml
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.exe.CodeAnalysisLog.xml
+C:\Program Tugas Akhir\Tugas TA\bin\Debug\Tugas TA.exe.lastcodeanalysissucceeded
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form12.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Tugas Akhir\Tugas TA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.exe.config
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.exe
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.xml
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.exe
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.pdb
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.xml
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+C:\Users\MBV Tirta\Downloads\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.vbproj.GenerateResource.Cache
+D:\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.exe.config
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.exe
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.xml
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+D:\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.exe
+D:\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.pdb
+D:\SAKSMK\SAKSMK\Tugas TA\bin\Debug\Tugas TA.xml
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+D:\SAKSMK\SAKSMK\Tugas TA\obj\x86\Debug\Tugas TA.vbproj.GenerateResource.Cache
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\bin\Debug\Tugas TA.exe.config
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas TA.exe
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas TA.xml
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas TA.pdb
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\bin\Debug\Tugas TA.exe
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\bin\Debug\Tugas TA.pdb
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\bin\Debug\Tugas TA.xml
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form1.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form10.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form11.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form13.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form14.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form15.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form2.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form3.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form4.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form7.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form8.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Form9.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.Resources.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen1.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas_TA.SplashScreen2.resources
+D:\Sistem Pakar\Sistem Pakar\Tugas TA\obj\x86\Debug\Tugas TA.vbproj.GenerateResource.Cache
